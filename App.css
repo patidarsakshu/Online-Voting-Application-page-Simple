@@ -1,0 +1,19 @@
+body{
+    background-color:rgb(127, 197, 191);
+    text-align: center;
+    text-transform: capitalize;
+    font-family: "Lucida Console", "Courier New", monospace;
+    padding: 50px; 
+    font-size: large;
+  }
+  div{
+    
+    justify-content: center;
+    color: rgb(19, 46, 71);
+    align-items: center;
+    display: flex;
+  }
+  #vote{
+    vertical-align: text-bottom;
+    box-sizing: border-box;
+  }
